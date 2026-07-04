@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://web-patricia-estetica-definitiva-maracotos-projects.vercel.app/sitemap.xml
+Sitemap: https://patriciandresbellezaconsciente.vercel.app/sitemap.xml
